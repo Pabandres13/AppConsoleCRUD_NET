@@ -1,2 +1,3 @@
-## Código base para completar el curso de buenas prácticas y código limpio en C#
-Debe descargar el codigo y usar el branch master o 0-codigobase
+Aplicacion Basica de tareas en consola realizada en .NET
+
+Aplicacion de consola donde especificas tareas para guardarlas, modificarlas y borrarlas, realizada en .NET, manejando buenas practicas de codigo para su realizacion 
